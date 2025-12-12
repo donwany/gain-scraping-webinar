@@ -18,7 +18,7 @@ HEADERS = {
 BASE_URL = "https://presidency.gov.gh/press-releases/"
 OUTPUT_FILE = "data/press_releases_with_img_urls.jsonl"
 START_PAGE = 2
-LAST_PAGE = 16
+LAST_PAGE = 17
 
 def get_page_urls():
     """Collect all listing pages: main page + pages 2–16"""
