@@ -1,0 +1,30 @@
+[project]
+name = "openscrapers"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    #    "scrapegraphai==1.37.0",
+    "langchain-experimental>=0.4.0",
+    "langchain-core>=1.1.0",
+    "langchain-community>=0.4.1",
+    #    "scrapegraph-py>=1.42.0",
+    "openai>=2.8.1",
+    "langchain>=1.1.0",
+    "crawl4ai>=0.7.7",
+    "firecrawl-py>=4.8.0",
+    "python-dotenv>=1.2.1",
+    "pandas>=2.3.3",
+    "loguru>=0.7.3",
+    "streamlit>=1.51.0",
+    "matplotlib>=3.10.7",
+    "scikit-learn>=1.7.2",
+    "wordcloud>=1.9.4",
+    "textblob>=0.19.0",
+    "transformers>=4.57.3",
+    "anthropic>=0.75.0",
+    "docling>=2.64.0",
+    "pymongo>=4.15.5",
+    "apache-airflow>=3.1.3",
+]

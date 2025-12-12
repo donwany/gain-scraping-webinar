@@ -1,0 +1,16 @@
+bs4
+requests
+langchain-experimental>=0.4.0
+langchain-core>=1.1.0
+langchain-community>=0.4.1
+openai>=2.8.1
+langchain>=1.1.0
+crawl4ai>=0.7.7
+firecrawl-py>=4.8.0
+python-dotenv>=1.2.1
+pandas>=2.3.3
+loguru>=0.7.3
+streamlit
+matplotlib
+scikit-learn
+docling
